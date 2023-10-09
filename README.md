@@ -13,7 +13,8 @@ The multiplayer part was developed using the "PUN 2 (Photon Unity Networking 2)"
 • Synchronize player and room states (e.g., score, in-game ranking, question number, real and fake names);
 
 # C# Files
-A Unity project has many files in addition to scripts that are usually not managed by the developer. If **you are only interested in seeing my work**, namely the C# scripts I wrote, go directly to the assets folder and open the C# files.
+A Unity project has many files in addition to scripts that are usually not managed by the developer. If **you are only interested in seeing my work**, namely the C# scripts I wrote, go directly to the [assets folder](https://github.com/iFralex/TheCheater/tree/main/Assets) and open the C# files.
+
 Unfortunately, the project was not developed with the intention of publication, so the file names, variables, and functions are in Italian, and no scripts are commented or written to facilitate reading by others.
 
 Keep in mind that I programmed this video game when I was 15 years old, so you can imagine that the code is not perfect or optimized to the best, but it still works perfectly, and you can study it to understand how Unity and PUN 2 work.
