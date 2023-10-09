@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{AFD902C1-7116-509E-DA31-EEA40354EBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{514A85D2-BD4F-9289-A897-6BD6BF288735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{8A47EB46-6E90-F035-5D85-2ABC5A56495D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{FDF2687C-9684-1C4B-ADD9-B6800965D71D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD902C1-7116-509E-DA31-EEA40354EBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD902C1-7116-509E-DA31-EEA40354EBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD902C1-7116-509E-DA31-EEA40354EBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD902C1-7116-509E-DA31-EEA40354EBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514A85D2-BD4F-9289-A897-6BD6BF288735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514A85D2-BD4F-9289-A897-6BD6BF288735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514A85D2-BD4F-9289-A897-6BD6BF288735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514A85D2-BD4F-9289-A897-6BD6BF288735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A47EB46-6E90-F035-5D85-2ABC5A56495D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A47EB46-6E90-F035-5D85-2ABC5A56495D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A47EB46-6E90-F035-5D85-2ABC5A56495D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A47EB46-6E90-F035-5D85-2ABC5A56495D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF2687C-9684-1C4B-ADD9-B6800965D71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF2687C-9684-1C4B-ADD9-B6800965D71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF2687C-9684-1C4B-ADD9-B6800965D71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF2687C-9684-1C4B-ADD9-B6800965D71D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
