@@ -12,7 +12,7 @@ The multiplayer part was developed using the "PUN 2 (Photon Unity Networking 2)"
 • Matchmaking system to create game rooms, connect players, and establish room rules (e.g., maximum number of players, game time, room visibility or privacy);
 • Synchronize player and room states (e.g., score, in-game ranking, question number, real and fake names);
 
-# C# Files
+# C# Scripts
 A Unity project has many files in addition to scripts that are usually not managed by the developer. If **you are only interested in seeing my work**, namely the C# scripts I wrote, go directly to the [assets folder](https://github.com/iFralex/TheCheater/tree/main/Assets) and open the C# files.
 
 Unfortunately, the project was not developed with the intention of publication, so the file names, variables, and functions are in Italian, and no scripts are commented or written to facilitate reading by others.
